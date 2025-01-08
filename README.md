@@ -48,15 +48,15 @@ and/or contributors.
 
 ## Compiling and Running
 
-To compile this program, save it in a file called `program.cpp` and run 
+To compile this program, save it in a file called `main2.cpp` and run 
 the following command:
 ```bash
-g++ -o program program.cpp
+g++ -o calc main2.cpp
 ```
-This will create an executable file called `program`. Run the program by 
+This will create an executable file called `calc`. Run the program by 
 typing:
 ```bash
-./program
+./calc
 ```
 and follow the prompts to select either calculator or currency converter 
 mode.
